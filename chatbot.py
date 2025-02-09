@@ -83,7 +83,6 @@ faiss.normalize_L2(document_embeddings)
 # Initialize FAISS index with Inner Product (dot product) for cosine similarity
 print("Building FAISS index with cosine similarity...")
 index = faiss.IndexFlatIP(embedding_dim)
-# index = faiss.IndexFlatL2(embedding_dim)
 index.add(document_embeddings)
 print(f"Indexed {index.ntotal} documents.\n")
 
