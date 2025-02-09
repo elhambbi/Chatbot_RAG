@@ -1,0 +1,5 @@
+sentence-transformers==3.4.1
+faiss-cpu==1.10.0
+requests==2.32.3
+pandas==2.2.3
+numpy==2.2.2
