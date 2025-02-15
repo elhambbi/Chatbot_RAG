@@ -149,7 +149,7 @@ def chatbot():
             "role": "system",
             "content": (
                 "You are a helpful assistant that answers the user's questions using **provided context** and previous **conversation history** to generate accurate and relevant answers."
-                " **Pretent you do not have access to the provided context.** -treat them as your own knowledge."
+                " **Pretend you do not have access to the provided context** and treat it as your own knowledge."
             )
         }
     ]
