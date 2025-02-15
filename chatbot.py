@@ -162,7 +162,7 @@ def chatbot():
             print("Goodbye!")
             break
         
-        # Retrieve relevant documents from the WikiText-103 corpus.
+        # Retrieve relevant documents from the knowledge base.
         retrieved_docs = retrieve_documents(user_query)
         # Combine the retrieved documents into one context string.
         context = "\n\n".join(retrieved_docs)
