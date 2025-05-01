@@ -1,6 +1,8 @@
-## Chatbot
+## Assistant Chatbot
 
-A chatbot that uses an LLM and RAG to provide accurate answers to the user's queries.
+*You can find more explanation of this project here [Implementing RAG for LLMs: An Assistant Chatbot with Conversation Memory](https://app.readytensor.ai/publications/implementing-retrieval-augmented-generation-rag-for-llms-a-chatbot-with-conversation-memory-6VVI8TZVIIYl)*
+
+A chatbot that uses an LLM and RAG to provide accurate answers to the user's queries. This is useful for developing customized customer support services by integration LLMs.
 
 To run the bot simply follow the following steps:
 
@@ -18,3 +20,7 @@ The image bellow is an example of how the bot functions. As demonstrated, the bo
 ![Example chat](./example_chat.png)
 
 The comparison between the speed of a Ferrari and a turtle was deliberately included in the provided documents. The bot not only uses this information but also reasons based on it to give the most accurate and correct response possible.
+
+
+
+
