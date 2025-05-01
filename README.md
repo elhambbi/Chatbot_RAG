@@ -1,6 +1,6 @@
 ## Assistant Chatbot
 
-*You can find more explanation of this project here [Implementing RAG for LLMs: An Assistant Chatbot with Conversation Memory](https://app.readytensor.ai/publications/implementing-retrieval-augmented-generation-rag-for-llms-a-chatbot-with-conversation-memory-6VVI8TZVIIYl)*
+*You can find more explanation about this project here [Implementing RAG for LLMs: An Assistant Chatbot with Conversation Memory](https://app.readytensor.ai/publications/implementing-retrieval-augmented-generation-rag-for-llms-a-chatbot-with-conversation-memory-6VVI8TZVIIYl)*
 
 A chatbot that uses an LLM and RAG to provide accurate answers to the user's queries. This is useful for developing customized customer support services by integration LLMs.
 
